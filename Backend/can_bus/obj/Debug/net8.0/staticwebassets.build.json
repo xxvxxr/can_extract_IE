@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lhfk2lUT8585LkvKVvQ4QXw1qlcriWkWm+/rFSdVzSE=",
+  "Source": "can_bus",
+  "BasePath": "_content/can_bus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
